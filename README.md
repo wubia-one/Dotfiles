@@ -3,7 +3,7 @@
 [![Neofetch Version](https://img.shields.io/badge/neofetch-v7.0.0-blue.svg)](https://github.com/dylanaraps/neofetch)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-This repository contains a customized version of Neofetch, a command-line system information tool written in Bash 3.2+. The main purpose of this customization is to enhance the appearance, add new ASCII art logos, and include additional system information.
+
 
 ## Features
 
