@@ -4,8 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## Usage 
-- clone this repo
-- put the config and image into `~/.config/neofetch` (remeber to change the config or rename the image if you use a diffrent one)
+- Clone this repo.
+- Put the config and image into `~/.config/neofetch` (remeber to change the config or rename the image if you use a diffrent one).
 
 ## Features
 
